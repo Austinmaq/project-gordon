@@ -1,0 +1,34 @@
+📌 O que é Git?
+
+Git é um sistema de controle de versão.
+Ele serve para controlar alterações no código, permitindo:
+
+Salvar versões do projeto
+
+Voltar para versões antigas
+
+Trabalhar em equipe sem sobrescrever código
+
+Criar ramificações (branches)
+
+Ele funciona localmente no seu computador.
+
+🌎 O que é GitHub?
+
+GitHub é uma plataforma online que hospeda repositórios Git na nuvem.
+
+Ele permite:
+
+Armazenar projetos online
+
+Trabalhar em equipe
+
+Compartilhar código
+
+Controlar versões remotamente
+
+Criar Pull Requests
+
+👉 Resumindo:
+Git = ferramenta de versionamento
+GitHub = plataforma onde você sobe seu projeto Git 
